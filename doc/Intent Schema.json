@@ -1,0 +1,83 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "TurnAction",
+          "type": "Turn_Type"
+        },
+        {
+          "name": "IPCName",
+          "type": "Name_Type"
+        }
+      ],
+      "intent": "Turn"
+    },
+    {
+      "slots": [
+        {
+          "name": "IPCName",
+          "type": "Name_Type"
+        }
+      ],
+      "intent": "Stop"
+    },
+    {
+      "slots": [
+        {
+          "name": "IPCName",
+          "type": "Name_Type"
+        },
+        {
+          "name": "PresetName",
+          "type": "Preset_Type"
+        }
+      ],
+      "intent": "Preset"
+    },
+    {
+      "slots": [
+        {
+          "name": "IPCName",
+          "type": "Name_Type"
+        },
+        {
+          "name": "SwitchName",
+          "type": "SwitchName"
+        }
+      ],
+      "intent": "SwitchOn"
+    },
+    {
+      "slots": [
+        {
+          "name": "IPCName",
+          "type": "Name_Type"
+        },
+        {
+          "name": "SwitchName",
+          "type": "SwitchName"
+        }
+      ],
+      "intent": "SwitchOff"
+    },
+    {
+      "slots": [
+        {
+          "name": "IPCName",
+          "type": "Name_Type"
+        }
+      ],
+      "intent": "Arouse"
+    },
+    {
+      "slots": [
+        {
+          "name": "IPCName",
+          "type": "Name_Type"
+        }
+      ],
+      "intent": "Sleep"
+    }
+  ]
+}

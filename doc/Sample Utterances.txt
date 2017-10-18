@@ -1,0 +1,53 @@
+Turn turn {TurnAction} of the {IPCName} camera
+Turn turn {TurnAction} of the {IPCName}
+Turn go {TurnAction} of the {IPCName} camera
+Turn go {TurnAction} of the {IPCName}
+Turn move {TurnAction} of the {IPCName} camera
+Turn move {TurnAction} of the {IPCName}
+Turn run {TurnAction} of the {IPCName} camera
+Turn run {TurnAction} of the {IPCName}
+Turn let the {IPCName} camera turn {TurnAction}
+Turn let the {IPCName} turn {TurnAction}
+Turn let the {IPCName} camera go {TurnAction}
+Turn let the {IPCName} go {TurnAction}
+Turn let the {IPCName} camera move {TurnAction}
+Turn let the {IPCName} move {TurnAction}
+Turn let the {IPCName} camera run {TurnAction}
+Turn let the {IPCName} run {TurnAction}
+Stop stop the {IPCName} camera
+Stop stop the {IPCName}
+Stop stop {IPCName} camera
+Stop stop {IPCName}
+Stop let the {IPCName} camera stop
+Stop let the {IPCName} stop
+Stop let {IPCName} camera stop
+Stop let {IPCName} stop
+Preset call {IPCName} to go to {PresetName}
+Preset ask {IPCName} to go to {PresetName}
+Preset let {IPCName} to go to {PresetName}
+Preset make {IPCName} to go to {PresetName}
+Preset call {IPCName} to move to {PresetName}
+Preset ask {IPCName} to move to {PresetName}
+Preset let {IPCName} to move to {PresetName}
+Preset make {IPCName} to move to {PresetName}
+SwitchOn switch on the {SwitchName} of the {IPCName} camera
+SwitchOn switch on the {SwitchName} of the {IPCName}
+SwitchOn switch the {SwitchName} of the {IPCName} camera on
+SwitchOn switch the {SwitchName} of the {IPCName} on
+SwitchOn enable the {SwitchName} of the {IPCName} camera
+SwitchOn enable the {SwitchName} of the {IPCName}
+SwitchOn open the {SwitchName} of the {IPCName} camera
+SwitchOn open the {SwitchName} of the {IPCName}
+SwitchOff switch off the {SwitchName} of the {IPCName} camera
+SwitchOff switch off the {SwitchName} of the {IPCName}
+SwitchOff switch the {SwitchName} of the {IPCName} camera off
+SwitchOff switch the {SwitchName} of the {IPCName} off
+SwitchOff disable the {SwitchName} of the {IPCName} camera
+SwitchOff disable the {SwitchName} of the {IPCName}
+SwitchOff close the {SwitchName} of the {IPCName} camera
+SwitchOff close the {SwitchName} of the {IPCName}
+Arouse wake up {IPCName}
+Arouse can you arouse my {IPCName}
+Arouse I'd like to arouse {IPCName}
+Sleep let {IPCName} sleep
+Sleep make {IPCName} in standby mode.

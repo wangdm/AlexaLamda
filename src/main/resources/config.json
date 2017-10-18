@@ -1,0 +1,6 @@
+{
+    "accessServerUrl":"dev-api.myfoscam.com",
+    "accessClientId":"foscloud",
+    "signalServerIP":"34.213.217.1",
+    "signalServerPort":"80"
+}
