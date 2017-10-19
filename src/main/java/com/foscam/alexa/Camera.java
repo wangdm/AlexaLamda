@@ -88,6 +88,16 @@ public class Camera {
 		
 	}
 	
+	public void arouse() {
+		String msg = "{\"command\":\"wake\",\"value\":\"\"}";
+		execute(msg);
+	}
+	
+	public void sleep() {
+		String msg = "{\"command\":\"sleep\",\"value\":\"\"}";
+		execute(msg);
+	}
+	
 	private void execute(String msg) {
 		server.sendSignal(userToken, name, mac, msg);
 	}

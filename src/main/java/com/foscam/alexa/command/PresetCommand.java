@@ -17,17 +17,9 @@ public class PresetCommand extends Command {
 	@Override
 	public void execute() {
 		
-		String action = getSlotValue("TurnAction");
-		if("up".equals(action)) {
-			camera.turnUp();
-		}else if("down".equals(action)) {
-			camera.turnDown();
-		}else if("left".equals(action)) {
-			camera.turnLeft();
-		}else if("right".equals(action)) {
-			camera.turnRight();
-		}
-		log.info("Action: turn " + action);
+		String name = getSlotValue("PresetName");
+		camera.gotoPreset(name);
+		log.info("Action: goto preset " + name);
 	}
 
 }
